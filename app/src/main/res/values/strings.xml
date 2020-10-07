@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab 1b - Buttons extension</string>
+    <string name="twoText">+2</string>
+    <string name="oneText">+1</string>
+    <string name="titleText">Counter Game</string>
+    <string name="threeText">threeText</string>
+</resources>
